@@ -35,7 +35,7 @@ module.exports = {
         let color = ex.GetColour();
         const newsEmbed = new EmbedBuilder()
             .setTitle(title)
-            .setDescription(description)
+            .setDescription(`Source for Lyuca can be viewed on the [GitHub Repository.](https://github.com/ThankTheSergal/Lyuca)\n\n` + description)
             .setColor(color)
             .setThumbnail(Lyuca.user.avatarURL())
             .setFooter({text: `If there are any bugs (there will be), let me know whenever you see anything that doesn't work as it should. I've been working on this update for a while, but mainly at 3am so there is bound to be typos and errors somewhere.`})
