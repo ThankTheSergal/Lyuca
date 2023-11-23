@@ -20,6 +20,6 @@ The `-y` is optional, it just accepts the default values of the initalization.
 - In the root directory, create a `.env` file and add the line `TOKEN=yourToken`
 - Finally, run `npm lyuca.js`
 
-I'm really tired, it's 10 am and I haven't slept, so I'm probably missing something, but ain't nobody gonna read this anyway. ]
+I'm really tired, it's 10 am and I haven't slept, so I'm probably missing something, but ain't nobody gonna read this anyway. 
 
 Oh, and if you want to use e6, you'll need to get your own e6 api key.
